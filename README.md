@@ -247,7 +247,7 @@ Employee-Attendance-Workforce-Analytics/
 Add dashboard screenshots to the **Screenshots** folder.
 
 ```markdown
-![Employee Attendance Dashboard](<screenshots/Screenshot 2026-07-05 132054.png>)
+(![Employee Attendance Dashboard](<screenshots/Screenshot 2026-07-05 132054.png>))
 ```
 
 ---
